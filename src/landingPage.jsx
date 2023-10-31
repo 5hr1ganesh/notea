@@ -6,7 +6,7 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <header>
-        <h1>Notea</h1>
+        <h1>Notea2002</h1>
         <h2>
           A notes keeping website made with React, Bun.js, Supabase and Hanko
           auth
