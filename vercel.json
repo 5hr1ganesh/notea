@@ -1,0 +1,28 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/LandingPage"
+    },
+    {
+      "source": "/login",
+      "destination": "/HankoAuth"
+    },
+    {
+      "source": "/Note",
+      "destination": "/Note"
+    },
+    {
+      "source": "/NoteEditor",
+      "destination": "/NoteEditor"
+    },
+    {
+      "source": "/Notes",
+      "destination": "/Notes"
+    },
+    {
+      "source": "/profile",
+      "destination": "/Profile"
+    }
+  ]
+}
